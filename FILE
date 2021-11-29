@@ -2,7 +2,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-   package="com.shravani.demochatapp">
+   package="com.navneet.demochatapp">
 
    <uses-permission android:name="android.permission.INTERNET" />
    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -277,7 +277,7 @@ private void lastmessage(final String userid, final TextView last_msg){
 4.) Chat.java--------------(iv)
 
 
-package="com.shravani.demochatapp">
+package="com.navneet.demochatapp">
 import javax.xml.transform.sax.SAXResult;
 
 public class Chat  {
@@ -333,7 +333,7 @@ public class Chat  {
 
 5.) chatList.java--------------(v)
 
-package="com.shravani.demochatapp">
+package="com.navneet.demochatapp">
 public class Chatlist {
    private String id;
 
@@ -416,7 +416,7 @@ public class User  {
 
 6.) StartActivity.java
 
-package="com.shravani.demochatapp">
+package="com.navneet.demochatapp">
 
 import androidx.appcompat.app.AppCompatActivity;
 
